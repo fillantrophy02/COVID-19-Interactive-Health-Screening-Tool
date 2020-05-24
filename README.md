@@ -1,4 +1,4 @@
-*Covid Response Template Translations*
+# Covid Response Template Translations
 
 This project generates annotated google response forms based on the questions and translations available at [TranslateForSG](https://translatefor.sg/). A sample template is available. 
 

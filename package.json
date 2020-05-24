@@ -1,0 +1,7 @@
+{
+  "name": "Covid-Response-Template-Translations",
+  "version": "0.1.0",
+  "dependencies": {
+    "googleapis": "^36.0.0"
+  }
+}
