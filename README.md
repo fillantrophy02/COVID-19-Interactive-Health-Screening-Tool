@@ -1,4 +1,4 @@
-# Covid Response Template Translations
+# COVID-19 Interactive Health Screening Tool
 
 This project generates annotated google response forms based on the
 questions and translations available at
